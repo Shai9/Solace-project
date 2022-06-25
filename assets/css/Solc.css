@@ -1,9 +1,95 @@
+.cont{
+  padding: 30px 25px 25px;
+  background: pink;
+  width: 550px;
+  border-radius: 9px;
+}
+
 body{
+  background: green;
+  justify-content: center;
+  min-height: 115vh;
+  align-items: center;
+  display: flex;
+}
+
+.cont header{
+  font-weight: 800;
+  font-size: 40px;
+  text-align: center;
+}
+
+
+.cont .content{
+   margin: 45px 0;
+}
+
+.advice-area .advice{
+  word-break: break-all;
+  text-align: center;
+  font-size: 27px;
+}
+
+.advice-area{
+  font-size: 19px;
+}
+
+ .content .name{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 40px;
+  font-style: initial;
+ }
+
+ .cont .buttons{
+   border-top: 2px saddlebrown;
+ }
+
+ .buttons .features{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+ }
+
+ .features ul li{
+  border: 3px saddlebrown;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 95vh;
-  background: #775775;
+  list-style: none;
+  height: 55px;
+  width: 52px;
+  border-radius: 57px;
+  margin:0 7px;
+  color: darkgoldenrod;
+  cursor: pointer;
+ }
 
+  .features button{
+    padding: 7px 7px;
+    cursor: pointer;
+    font-style: 17px;
+    border-radius: 17px;
+    color: rgb(48, 4, 14);
+    outline: none;
+    background: burlywood;
+    font-size: 17px;
+  }
+
+
+ .features ul{
+   display: flex;
+ }
+
+.features ul li:hover{
+  color: gold;
+  background: darkcyan;
 }
+
+.features button:hover{
+  background: darkcyan;
+}
+
+
 
