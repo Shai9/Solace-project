@@ -2,8 +2,8 @@
     "Solace/Dare To Do"
 
 ## Brief Description, Date Of Current Version
- -Fresh and new to market to keep people advised.
- -25th June 2022
+ - Fresh and new to market to keep people advised.
+ - 25th June 2022
 
 # Description
  Solace means a source of relief or consolation.It occurs to me that every feeling we have is a symptom of our environment. All of these things will change and pass like the people in our lives. This allows me to embrace my contentedness.
@@ -15,9 +15,9 @@
 
 ## Technologies Used
 Languages Used;
-   -  HTML
-   -  CSS
-   -  Javascript
+   -  HTML.
+   -  CSS.
+   -  Javascript.
  Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
 
 ### Bugs
