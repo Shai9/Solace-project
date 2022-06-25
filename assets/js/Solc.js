@@ -45,4 +45,4 @@ linkedinBtn.addEventListener("click", () => {
     //opening linkedin
    let linkedinUrl =  `https://www.linkedin.com/messaging/thread/new?url=${adviceText.innerText}`;
    window.open(linkedinUrl, );
-} );*/
+} );
