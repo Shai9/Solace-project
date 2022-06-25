@@ -26,10 +26,9 @@ Languages Used;
 
 # Support
 
- Feel free to contact me when you ran into issues with the app .Ideas  and fresh ideas are highly recommended .Feel free to contribute to the code ,if you feel that improvements may be of need
+ Feel free to contact me when you ran into issues with the app .Ideas  and fresh ideas are highly recommended .Feel free to contribute to the code ,if you feel that improvements may be of need.
 
 # License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+*  GNU General Public License .
+-  Copyright (c) {2022}.
 
