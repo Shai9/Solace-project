@@ -1,6 +1,6 @@
 const adviceText = document.querySelector(".advice"),
 quoteBtn = document.querySelector("button")
-// adding links to social media buttons//
+// adding links to social media buttons
 
 twitterBtn = document.querySelector(".twitter")
 
@@ -13,7 +13,7 @@ linkedinBtn = document.querySelector(".linkedin")
 
 
 function randomQuote(){
-    quoteBtn.innerText = "A minute..";// adding load
+    quoteBtn.innerText = "A minute..";  // adding  a 'loading' feature
     //fetching data from an api
     fetch("https://api.quotable.io/random").then(res => res.json()).then(result =>{
         console.log(result);
@@ -21,7 +21,8 @@ function randomQuote(){
         quoteBtn.innerText = "New Advice"
     })
 }
-
+    // adding event listeners
+    
 quoteBtn.addEventListener("click", randomQuote);
 twitterBtn.addEventListener("click", () => {
     //opening twitter for a new tweet
