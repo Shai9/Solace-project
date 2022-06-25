@@ -1,21 +1,17 @@
 # Application Name
     "Solace/Dare To Do"
 
-#  Brief Description, Date of current version
+## Brief Description, Date Of Current Version
  -Fresh and new to market to keep people advised.
  -25th June 2022
 
-## Description
+# Description
  Solace means a source of relief or consolation.It occurs to me that every feeling we have is a symptom of our environment. All of these things will change and pass like the people in our lives. This allows me to embrace my contentedness.
  Solace will give enough advices to keep minds relaxed and restore hope for those who feel despaired.
  
-## Setup
+# Setup
 * Here is a github repo link {https://github.com/shai9/project1.git}
-* /to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}/
+-Fork and clone this repository to your local environment to get to see the related files.
 
 ## Technologies Used
 Languages Used
