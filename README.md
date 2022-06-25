@@ -25,9 +25,10 @@ Languages Used;
  - Feel free to showcase any bug encountered.
 
 # Support
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
-### License
+ Feel free to contact me when you ran into issues with the app .Ideas  and fresh ideas are highly recommended .Feel free to contribute to the code ,if you feel that improvements may be of need
+
+# License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
 Copyright (c) {year} **{List of contributors or company name}**
