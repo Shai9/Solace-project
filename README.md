@@ -1,6 +1,6 @@
 # Application Name
     "Solace/Dare To Do"
-    
+
 #### Description, Date of current version
  -Fresh and new to market to keep people advised.
  -25th June 2022
@@ -17,9 +17,13 @@
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}/
 
-## Technologies
-//{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}//
-Languages used are HTML,CSS and Javascript
+## Technologies Used
+Languages Used
+-HTML
+-CSS
+-JAVASCRIPT
+ Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
+
 ## Support/contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
