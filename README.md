@@ -1,7 +1,7 @@
 # Application Name
     "Solace/Dare To Do"
 
-#### Description, Date of current version
+#  Brief Description, Date of current version
  -Fresh and new to market to keep people advised.
  -25th June 2022
 

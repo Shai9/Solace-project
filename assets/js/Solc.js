@@ -2,7 +2,7 @@ const adviceText = document.querySelector(".advice"),
 quoteBtn = document.querySelector("button")
 // adding links to social media buttons//
 
-//twitterBtn = document.querySelector(".twitter")
+twitterBtn = document.querySelector(".twitter")
 
 githubBtn = document.querySelector(".github")
 
