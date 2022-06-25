@@ -18,7 +18,7 @@ Languages Used;
    -  HTML.
    -  CSS.
    -  Javascript.
- Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
+   -  Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
 
 ### Bugs
  - Be sure to add an author or writer.
