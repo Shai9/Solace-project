@@ -11,16 +11,20 @@
  
 # Setup
 * Here is a github repo link {https://github.com/shai9/project1.git}
--Fork and clone this repository to your local environment to get to see the related files.
+- Fork and clone this repository to your local environment to get to see the related files.
 
 ## Technologies Used
-Languages Used
--HTML
--CSS
--JAVASCRIPT
+Languages Used;
+   -  HTML
+   -  CSS
+   -  Javascript
  Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
 
-## Support/contact details
+### Bugs
+ - Be sure to add an author or writer.
+ - Feel free to showcase any bug encountered.
+
+# Support
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
 ### License
