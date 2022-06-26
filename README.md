@@ -7,7 +7,7 @@
 
 # Description
  Solace means a source of relief or consolation.It occurs to me that every feeling we have is a symptom of our environment. All of these things will change and pass like the people in our lives. This allows me to embrace my contentedness.
- Solace will give enough advices to keep minds relaxed and restore hope for those who feel despaired.
+ Solace will give enough advices to keep minds relaxed and restore hope for those who feel despaired. Social media buttons have also been added to enable sharing with your lovely ones .
  
 # Setup
 * Here is a github repo link {https://github.com/Shai9/Solace-project.git}
