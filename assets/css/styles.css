@@ -1,13 +1,13 @@
 .cont{
    padding: 27px 27px 20px;
-   background: darkslategrey;
+   background: rgb(154, 125, 100);
    width: 800px;
    border-radius: 28px;
 }
 
 
 body{
-   background-image: url("https://images.unsplash.com/photo-1653778005824-4bc7dc887603?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+   background-image: url("https://images.unsplash.com/photo-1653450283266-c788c2ca4ab2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80");
    background-size: cover;
    justify-content: center;
    min-height: 110vh;
@@ -70,7 +70,7 @@ body{
    width: 52px;
    border-radius: 57px;
    margin:0 7px;
-   color: darkgoldenrod;
+   color: rgb(54, 41, 12);
    cursor: pointer;
 }
 
@@ -79,7 +79,7 @@ body{
     border: 2px solid #0099CC;
     border-radius: 6px; 
     border: none;      
-    color: darkgoldenrod;     
+    color: rgb(54, 41, 12);     
     padding: 16px 32px;      
     text-align: center;      
     display: inline-block;      
@@ -96,12 +96,13 @@ body{
 }
 
 .features ul li:hover{
-   color: gold;
+   color: rgb(230, 230, 171);
    background: rgb(3, 29, 42);
 }
 
 .features button:hover{
-   background: rgb(3, 29, 42)
+   color: rgb(230, 230, 171);
+   background: rgb(3, 29, 42) ;
 }
 
 
