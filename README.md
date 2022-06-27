@@ -15,6 +15,17 @@
 * Here is a github repo link {https://github.com/Shai9/Solace-project.git}.
 - Fork and clone this repository to your local environment to get to see the related files.
 
+* ### Tools needed
+ 1. A terminal , Ubuntu prefferably for git cloning the repo link.
+ 2. A text editor , Vs Code is the best for this. Vs Code will enable proper file viewing .
+ 3. A browser ; Chrome, Safari , Microsoft edge ,mozilla firefox are all acceptable except the Internet Explorer.
+
+ ## Snippets 
+  Here is a screenshot.
+  
+![](../../../../mnt/c/Users/ADMIN/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/ADMIN/Pictures/Saved%20Pictures/Screenshot%202022-06-27%20235403.png)
+
+
 ## Technologies Used
 Languages Used;
    -  HTML.
