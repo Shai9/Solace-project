@@ -30,6 +30,12 @@ Languages Used;
 
  Feel free to contact me when you ran into issues with the app .Ideas  and fresh ideas are highly recommended .Feel free to contribute to the code ,if you feel that improvements may be of need.
 
+### Contacts
+
+* Email : calmusdennis254@gmail.com.
+* Tel   : +254 795 375494. 
+
+
 # License
 *  GNU General Public License .
 -  Copyright (c) {2022}.
