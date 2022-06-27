@@ -21,7 +21,7 @@ Languages Used;
    -  Button addition was the coolest part, the links to share the advices to other social media sites was a good for me.
 
 ### Bugs
- - Be sure to add an author or writer.
+ - Be sure to add an author or writer, the Id and date if you you feel so.
  - Feel free to showcase any bug encountered.
 
 # Support
