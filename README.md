@@ -1,9 +1,11 @@
 # Application Name
     "Solace/Dare To Do"
 
-## Brief Description, Date Of Current Version
- - Fresh and new to market to keep people advised.
- - 25th June 2022
+## Brief Description
+ - This is Solace. Solace means peace , this app is endowed with well explanatory advices to keep you motivated throughout the day. Feel motivated today!
+ 
+# Current Version
+ - The app is up to date
 
 # Description
  Solace means a source of relief or consolation.It occurs to me that every feeling we have is a symptom of our environment. All of these things will change and pass like the people in our lives. This allows me to embrace my contentedness.
