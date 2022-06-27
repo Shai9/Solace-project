@@ -12,7 +12,7 @@
  Solace will give enough advices to keep minds relaxed and restore hope for those who feel despaired. Social media buttons have also been added to enable sharing with your lovely ones .
  
 # Setup
-* Here is a github repo link {https://github.com/Shai9/Solace-project.git}
+* Here is a github repo link {https://github.com/Shai9/Solace-project.git}.
 - Fork and clone this repository to your local environment to get to see the related files.
 
 ## Technologies Used
