@@ -4,7 +4,7 @@
 ## Brief Description
  - This is Solace. Solace means peace , this app is endowed with well explanatory advices to keep you motivated throughout the day. Feel motivated today!
  
-# Current Version
+### Current Version
  - The app is up to date
 
 # Description
