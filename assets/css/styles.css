@@ -1,22 +1,29 @@
 .cont{
-  padding: 30px 25px 25px;
-  background: pink;
-  width: 550px;
-  border-radius: 9px;
+   padding: 27px 27px 20px;
+   background: darkslategrey;
+   width: 800px;
+   border-radius: 28px;
 }
 
+
 body{
-  background: rgb(13, 13, 13);
-  justify-content: center;
-  min-height: 115vh;
-  align-items: center;
-  display: flex;
+   background-image: url("https://images.unsplash.com/photo-1653778005824-4bc7dc887603?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+   background-size: cover;
+   justify-content: center;
+   min-height: 110vh;
+   align-items: center;
+   display: flex;
+   background-position: center;
+   background-attachment:fixed;
+   
+   background-size: cover;
+   
 }
 
 .cont header{
-  font-weight: 800;
-  font-size: 40px;
-  text-align: center;
+   font-weight: 800;
+   font-size: 40px;
+   text-align: center;
 }
 
 
@@ -25,71 +32,78 @@ body{
 }
 
 .advice-area .advice{
-  word-break: break-all;
-  text-align: center;
-  font-size: 27px;
+   word-break: break-all;
+   text-align: center;
+   font-size: 25px;
 }
 
-.advice-area{
-  font-size: 19px;
+ .advice-area{
+   font-size: 17px;
 }
 
  .content .name{
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 40px;
-  font-style: initial;
- }
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 40px;
+   font-style: initial;
+
+}
 
  .cont .buttons{
    border-top: 2px saddlebrown;
- }
+}
 
  .buttons .features{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 25px;
- }
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 25px;
+}
 
  .features ul li{
-  border: 3px saddlebrown;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  list-style: none;
-  height: 55px;
-  width: 52px;
-  border-radius: 57px;
-  margin:0 7px;
-  color: darkgoldenrod;
-  cursor: pointer;
- }
+   border: 3px saddlebrown;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   list-style: none;
+   height: 55px;
+   width: 52px;
+   border-radius: 57px;
+   margin:0 7px;
+   color: darkgoldenrod;
+   cursor: pointer;
+}
 
   .features button{
-    padding: 7px 7px;
+    background: transparent;
+    border: 2px solid #0099CC;
+    border-radius: 6px; 
+    border: none;      
+    color: darkgoldenrod;     
+    padding: 16px 32px;      
+    text-align: center;      
+    display: inline-block;      
+    font-size: 16px;      
+    margin: 4px 2px;      
+    -webkit-transition-duration: 0.4s;       
+    transition-duration: 0.4s;      
     cursor: pointer;
-    font-style: 17px;
-    border-radius: 17px;
-    color: rgb(48, 4, 14);
-    outline: none;
-    background: burlywood;
-    font-size: 17px;
-  }
-
-
+}
+  
+      
  .features ul{
-   display: flex;
- }
+    display: flex;
+}
 
 .features ul li:hover{
-  color: gold;
-  background: darkcyan;
+   color: gold;
+   background: rgb(3, 29, 42);
 }
 
 .features button:hover{
-  background: darkcyan;
+   background: rgb(3, 29, 42)
 }
+
 
 
 
