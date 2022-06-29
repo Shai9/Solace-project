@@ -20,10 +20,11 @@
  2. A text editor , Vs Code is the best for this. Vs Code will enable proper file viewing .
  3. A browser ; Chrome, Safari , Microsoft edge ,mozilla firefox are all acceptable except the Internet Explorer.
 
- ## Snippets 
-  Here is a screenshot.
-  
-![](../../../../mnt/c/Users/ADMIN/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/ADMIN/Pictures/Saved%20Pictures/Screenshot%202022-06-27%20235403.png)
+ ## Snippets
+
+ ![Screenshot](vscode-remote://wsl%2Bubuntu/home/shaki/Development/code/Projects/Solace-project/Screenshot%202022-06-27%20235403.png)
+
+ 
 
 
 ## Technologies Used
